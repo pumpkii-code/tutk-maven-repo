@@ -1,0 +1,10 @@
+build/
+out/
+
+# Exclude other unnecessary files
+*.iml
+.gradle/
+.idea/
+
+# Include the Maven repository
+!maven-repo/

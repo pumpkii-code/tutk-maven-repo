@@ -1,0 +1,6 @@
+jitpack:
+  - groupId: com.github.pumpkii-code
+    artifactId: tutk-maven-repo
+    version: -SNAPSHOT
+    files:
+      - aar: tutk-maven-repo/tree/main/maven-repo/com/tutk/iot-camera/2.5.1.3
